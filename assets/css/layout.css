@@ -41,6 +41,7 @@ main .item3 {
   display: flex;
   flex-wrap: wrap;
   overflow: auto;
+  justify-content: center;
 }
 /*End Grid layout */
 #navbar {
