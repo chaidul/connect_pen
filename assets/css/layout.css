@@ -92,6 +92,8 @@ main .section .sidebar ul li:hover {
     position: fixed;
     top: 60px;
     height: 500px;
+    z-index: 2;
+    background-color: white;
   }
   main .hide {
     left: -100%;
